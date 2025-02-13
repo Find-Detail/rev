@@ -9,7 +9,7 @@ parallel-jobs = 1
 [TikTok]
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-arch = "arm-v7a"
+#arch = "arm-v7a"
 version = "latest"
 included-patches = "'Show seekbar' 'Disable login requirement' 'Fix Google login' 'SIM spoof'"
 exclusive-patches = true
