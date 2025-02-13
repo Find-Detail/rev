@@ -6,12 +6,11 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-arch = "both"
-version = "latest"
+[TikTok]
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+# arch = "armeabi-v7a, arm64-v8a"
 included-patches = "'SIM spoof'"
-
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
